@@ -1,0 +1,76 @@
+﻿Item,Brand,Department,Price
+Red Apple,Organic,Produce,1.00
+Red Apple,Store,Produce,0.75
+Green Apple,Store,Produce,0.75
+Orange,Store,Produce,0.75
+Peach,Store,Produce,0.75
+Pear,Store,Produce,0.75
+Lemon,Store,Produce,0.25
+Lime,Store,Produce,0.25
+Yellow Onion,Store,Produce,0.50
+Red Onion,Store,Produce,0.50
+White Onion,Store,Produce,0.50
+Green Onion,Store,Produce,0.50
+Russet Potato,Store,Produce,0.25
+Red Potato,Store,Produce,0.25
+Golden Potato,Store,Produce,0.25
+Strawberry,Store,Produce,4.00
+Blueberry,Store,Produce,4.00
+Spinach,Organic,Produce,2.00
+Spinach,Store,Produce,1.50
+Collard Greens,Store,Produce,1.00
+Kale,Store,Produce,1.00
+Romaine,Store,Produce,1.00
+Red Bell Pepper,Store,Produce,1.00
+Yellow Bell Pepper,Store,Produce,1.00
+Orange Bell Pepper,Store,Produce,1.00
+Green Bell Pepper,Store,Produce,1.00
+Banana,Organic,Produce,2.00
+Banana,Store,Produce,1.00
+Chicken Breast,Store,Meat,4.00
+Chicken Tenders,Store,Meat,5.00
+Chicken Wings,Store,Meat,3.00
+Chicken Breast,Organic,Meat,7.00
+Whole Chicken,Store,Meat,6.00
+Whole Chicken,Organic,Meat,10.00
+Bacon,Store,Meat,5.00
+Breakfast Sausage,Store,Meat,5.00
+Ham,Store,Meat,5.00
+Flank Steak,Store,Meat,4.00
+Ribeye,Store,Meat,9.00
+Fillet,Store,Meat,18.00
+Ground Beef,Store,Meat,4.00
+Ground Turkey,Store,Meat,6.00
+Whole Turkey,Store,Meat,15.00
+Tofu,Store,Meat,3.00
+Bread,Store,Bakery,3.00
+Whole Wheat Bread,Organic,Bakery,4.00
+Whole Wheat Bread,Store,Bakery,3.00
+Hot Dog Buns,Store,Bakery,3.00
+Hamburger Buns,Store,Bakery,3.00
+Bagels,Store,Bakery,4.00
+Everything Bagels,Organic,Bakery,5.00
+Everything Bagels,Store,Bakery,4.00
+Muffins,Store,Bakery,3.50
+English Muffins,Store,Bakery,3.50
+Eggs,Store,Dairy,2.00
+Brown Eggs,Store,Dairy,2.50
+Cage-Free Eggs,Organic,Dairy,4.50
+Greek Yogurt,Store,Dairy,3.25
+Yogurt,Store,Dairy,3.00
+Whole Milk,Store,Dairy,4.00
+Skim Milk,Store,Dairy,4.00
+Oat Milk,Store,Dairy,4.25
+Soy Milk,Store,Dairy,4.25
+Almond Milk,Store,Dairy,5.50
+Chocolate Milk,Store,Dairy,4.75
+Cream,Store,Dairy,3.50
+Vanilla Coffee Cream,Store,Dairy,4.00
+Whipped Cream,Store,Dairy,4.00
+Whipped Cream,Organic,Dairy,4.75
+Spaghetti ,Store,Shelves,2.00
+Macaroni ,Store,Shelves,2.50
+Fettuccini,Store,Shelves,2.50
+Penne,Store,Shelves,1.75
+Cereal,Store,Shelves,1.75
+Granola Bars,Organic,Shelves,5.00
